@@ -1,2 +1,2 @@
 # vendor_db
-Vendor Database
+Vendor Database for New York Elegant Fabrics
