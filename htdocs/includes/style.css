@@ -1,0 +1,93 @@
+.error  {
+	font-size : 12px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : normal;
+	font-style : bold;
+	color : red;
+}
+
+
+.Text  {
+	font-size : 12px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	color : Black;
+}
+
+.heavy  {
+	font-size : 11px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-style : bold;
+	color : Black;
+}
+
+.Subnav {
+	display: block;
+	font-size : 12px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	width: 150px;
+	border: 0px;
+}
+		
+.UL {
+	margin: 7px;
+	display: block;
+	font-size : 70%;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	width: 100%;
+	border: 0px;
+	color: #000000;
+	list-style: disc;
+	padding : 15px;
+}
+
+.General {
+	font-size : 11px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : lighter;
+	font-style : normal;
+	color : Black;
+}
+
+
+.Copyright  {
+	font-size: xx-small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	color: Gray;
+}
+
+
+A  {
+	font-size: xx-small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	color: #CC0033;
+}
+
+A:Visited  {
+	font-size: xx-small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	color: #959595;
+}
+
+
+
+A:Hover  {
+	font-size: xx-small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	color: #802020;
+}
+
